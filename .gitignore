@@ -1,14 +1,24 @@
-bin
+*.bin
 obj
 packages
-
-# Compiled Static libraries
+.vscode/
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
 *.lai
 *.la
 *.a
 *.lib
-
-# Executables
 *.exe
 *.out
 *.app
+.cph/
