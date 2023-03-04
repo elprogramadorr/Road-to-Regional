@@ -31,4 +31,3 @@ signed main()
 }  
 // MOL GORUYI MOLA UBI HE BEÁSE
 // DUL YUNGE HANAMAN GOLA Yes or Yes?
-// https://www.hackerearth.com/submission/80416966/
