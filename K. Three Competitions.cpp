@@ -218,3 +218,4 @@ signed main()
 }  
 // MOL GORUYI MOLA UBI HE BEÁSE
 // DUL YUNGE HANAMAN GOLA Yes or Yes?
+// https://codeforces.com/gym/103371/problem/K
